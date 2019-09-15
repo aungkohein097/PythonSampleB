@@ -1,0 +1,5 @@
+pip
+pip --version = pip version check
+pip install numpy = numpy install
+--user = user permission
+pip install -r requirement.txt 
