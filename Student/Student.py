@@ -13,4 +13,3 @@ b = {
 	"Mother" : "Daw Ba"
 	
 }'''
-a = ['Mary','had','a','little','lamb']
