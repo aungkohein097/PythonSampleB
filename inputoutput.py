@@ -4,4 +4,4 @@ for name, phone in table.items():
 
 animals = 'eels'
 print(f'My hovercraft is full of {animals}.')	
-print(f'My hovercraft is full of {animals!r}.')
+print(f'My hovercraft is full of {animals!r}.')	
